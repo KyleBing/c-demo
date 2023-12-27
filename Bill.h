@@ -11,6 +11,6 @@ typedef struct Bill {
 } Bill;
 
 void to_string(Bill* bill);
-float random_price(float maxPrice);
+void to_string_bill_list(Bill* bill);
 
 #endif //MAIN_BILL_H

@@ -4,14 +4,16 @@
 
 #include "Bill.h"
 #include "stdio.h"
-#include "stdlib.h"
-#include "time.h"
+
 void to_string(Bill* bill){
-    printf("{ price: %.2f, name: %s}", bill->price, bill->name);
+    printf("{ name: %s, price: %.2f}\n", bill->name, bill->price );
+}
+void to_string_bill_list(Bill* bill){
+    printf("%s \t ￥ %.2f\n", bill->name, bill->price );
 }
 
-float random_price(float maxPrice){
-    srand((unsigned int)time(NULL));
-    return maxPrice * rand() / RAND_MAX;
-}
+
+
+
+
 
