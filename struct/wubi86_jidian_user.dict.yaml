@@ -1,0 +1,229 @@
+---
+name: wubi86_jidian_user
+version: "2019-01-20"
+last_edit_time: "2021-08-07"
+dict_grouped: true # 词库管理应用识别：标记该码表为分组模式
+sort: original
+  # 码表的排序方式
+  # by_weight 权重
+  # original 原始顺序
+#use_preset_vocabulary: true # 是否引入【八股文】的词频词序
+# 格式：字词 键码  权重 （中间是tab，不是空格）
+# '#'开头的只是注释， 注释只能另起一行写，不能在词条后面写
+# `##` 两个 # 开头的会被识别为分组名，其后跟的词条就是该组的内容
+...
+## - TEMP -
+👍	tfqm	25
+速客机车	gpsl
+鹏泉	eeri
+一本	ggsg	20
+申江智能	jitc
+霉菌机	fasm
+拼单	ruuj	10
+结构体	xsws
+磕磕碰碰	dddd	25
+广发	yynt	5
+倍率	wuyx	5
+单片机	utsm	20
+干鸟	fgqy
+跨年	khrh	25
+
+## 人名
+李姣	sbvu
+苑文彬	ayss	20
+孟令贤	bwjc	20
+李云龙	sfdx	20
+程得祥	ttpy
+
+## 工作-泰物
+珑城	gdfd
+modbus	modb
+TaiWu69954388@jn	pndc
+鲁商	qgum
+鲁商盛景广场	qudf
+鲁商盛景	qudj
+机柜锁	ssqi
+山东泰物信息技术有限公司	wcng		公司
+魔盒	yswg
+东港	aiia
+断路器	okkk	100
+臭氧机	trsm
+科谊	tuyp
+黑盾	lfrf
+盖贝斯	umad
+勤诚	akyd
+臻宇	gcpg	20
+
+## 济南地名
+彩西路	eskh
+卧虎山水库	ahmy	100
+历城区	dfaq
+历城	dlfd
+舜泰	epdw
+珑城	gdfd
+港西路	iskh	100
+铁厂北路	qduk
+金刚纂	qmth
+金刚纂路	qmtk
+锦绣川	qxkt
+锦绣川水库	qxky
+经四	xclh
+经十东路	xfak
+旅游路	yikh
+市中区	ykaq
+滩九线	ivxg
+圣罗萨	clab
+圣罗萨汽修	claw
+华瑞源	wgid
+经四路	xlkh
+铁厂北路	qduk
+信华居	wwnd
+经四	xclh
+
+## 地名
+历下区花园东路奥体西路鲁商盛景广场B座604 泰物	wcng		公司
+泺口	iqkk
+沂源	irid
+河西王	isgg
+淄博	ivfg
+力高国际	lylb
+山东省济南市历城区华山安置二区E区1号楼1单元1003 邴新科 15628785530	nwff
+皂户李	rysb
+华山安置二区E区1号楼1单元1003	wyfh		住址
+嘉隆利	fbtj	20
+旺泽	jgic
+济东	iyai	100
+济西	iysg	100
+
+## 亲戚
+邴新科	gutu
+邴新发	gunt
+邴新雨	gufg
+邴新玲	gugw
+邴新强	guxk
+邴新花	guaw
+邴兴国	gilg
+张庆叶	xykf
+邴兴杰	giso
+邴兴义	giyq
+邴绍兴	gxiw
+刘志辉	yfiq
+邴兴英	giam
+邴兴伟	giwf
+黎敏	tqtx
+壮壮	ufuf
+亚楠	gosf
+聪聪	bubu
+陈祥全	bpwg
+陈维峰	bxmt
+邴新荣	guap
+亚男	goll
+
+## 朋友
+张海龙	xidx
+蔡小霞	aifn	100
+蔡小霞	aifn	100
+王奇	ggds
+洋洋	iuiu
+曹婕	gmvg
+王仁远	gwfq
+宝玲	pggw
+宝玲	pggw
+张京	xtyi
+奚奚	exex
+张新燕	xuau
+郑唯	udkw
+李梦飞	ssnu
+梦飞	ssnu
+李春丽	sdgm
+沈楠	ipsf
+郑维	udxw
+刘丹	yjmy	99999
+闫晓梅	ujst
+
+## 同学
+张宪岭	xpmw
+时慧	jfdh
+孔凡涛	bmid
+李延璐	stgk
+刘中华	ykwx
+朱荣亮	rayp
+龚礼乐	dpqi	999
+
+## 同事
+韩魏雨	ftfg
+王蕊	ggan
+王彦杰	guso
+于佑飞	gwnu
+曹传钊	gwqj
+杨世光	saiq
+张琪	xtga
+张幼谦	xxyu
+刘汉成	yidn
+石海山	dimm
+陆强	bfxk
+张文栋	xysa
+蔡高爽	aydq
+马智威	ctdg
+李建军	svpl
+许红静	yxge
+赵宝玲	fpgw
+杨庆银	syqv
+刘健信	ywwy
+李吉山	sfmm
+曹先进	gtfj
+张勋	xtkm
+徐浩勋	tikm
+
+## VIP
+刘丹	yjmy	100
+
+## 旧同事
+苏成东	adai
+陈旺	bajg
+戚小静	dige
+胡永鹏	dyee
+赵东	fhai
+郝占恒	fhng
+赵健	fhwv
+韩同同	fmmg
+邢洪明	gije
+吕总	kkuk
+曲勇	mace
+贾玉玺	sgqi
+周佳伟	mwwf
+李春婷	sdvy
+杨印霄	sqfi
+李化伟	swwf
+曾术丽	usgm
+侯正稳	wgtq
+郭勐轩	yblf
+刘春霞	ydfn
+唐心星	ynjt
+
+## IP
+192.168.0.107	ip
+192.168.3.26	ip
+
+## 个人信息
+青枫ky	gesm
+慧美青枫	dugs
+kylebing@163.com	ky
+鲁ICP备2022028139号-1	tpkg
+qiufengdouhe@sina.com	uimt
+810656237@qq.com	qqmt
+smilekylebing@gmail.com	wwmt
+810656237	qqkg
+371122199103067435	twyk	100
+15628785530	rskg	29
+13245472747	rskg	28
+鲁A83U5U	lgth		车牌
+鲁A83U5U	ltkg		车牌号
+鲁ALT532	lgth		车牌
+鲁ASS282	lgth		车牌
+
+## 工作-课后
+三川	dgkt
+尚润	imiu
+泰物	dwtr	100
+
