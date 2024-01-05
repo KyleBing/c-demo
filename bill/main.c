@@ -3,7 +3,6 @@
 #include "stdlib.h"
 #include "Bill.h"
 #include "time.h"
-#include "string.h"
 
 
 int main() {
@@ -15,7 +14,7 @@ int main() {
     float maxPrice = 100;
     float sum = 0;
     for (int i = 0; i < 10; i++) {
-        sprintf((billArray + i)->name, "物品-%d", i);
+        sprintf((billArray + i)->name, "item-%d", i);
         (billArray + i)->price = (float) rand() / RAND_MAX * maxPrice;
         to_string_bill_list((billArray + i));
 
@@ -24,7 +23,7 @@ int main() {
     }
 
     printf("------------------\n");
-    printf("总计\t\t ￥ %.2f\n", sum);
+    printf("Sum\t $ %.2f\n", sum);
 }
 
 

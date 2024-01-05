@@ -9,7 +9,7 @@ void to_string(Bill* bill){
     printf("{ name: %s, price: %.2f}\n", bill->name, bill->price );
 }
 void to_string_bill_list(Bill* bill){
-    printf("%s \t ￥ %.2f\n", bill->name, bill->price );
+    printf("%s \t $ %.2f\n", bill->name, bill->price );
 }
 
 
